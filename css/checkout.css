@@ -1,0 +1,24 @@
+.one{
+    position: fixed;
+    top: 30%;
+    width: 100%;
+    margin:0px 0px 0px 580px;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vh;
+}
+
+h2{
+    text-align: center;
+    margin:0px 0px 0px 580px;
+    top:40%;
+}
+
+button{
+    color:black;
+    background-color: yellow;
+}
